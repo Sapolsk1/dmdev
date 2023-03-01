@@ -23,6 +23,9 @@ public class Computer {
         this.ram = ram;
     }
 
+    /**
+     * Перегрузка методов
+     */
     void load() {
         System.out.println("Я загрузился!");
     }
