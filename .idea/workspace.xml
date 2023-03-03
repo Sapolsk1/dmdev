@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d8c6e54-2612-444b-a8b8-1384526aec0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dmdev/oop/lesson1/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dmdev/oop/lesson6/Lesson6Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dmdev/oop/task/TimeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dmdev/oop/task/TimeIntervalRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dmdev/oop/lesson2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dmdev/oop/lesson2/Computer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +54,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TimeIntervalRunner">
     <configuration name="ComputerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmdev.oop.lesson2.ComputerRunner" />
       <module name="oop-lesson-1" />
@@ -70,8 +72,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimeIntervalRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.oop.task.TimeIntervalRunner" />
+      <module name="oop-lesson-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.oop.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimeIntervalRunner" />
         <item itemvalue="Application.ComputerRunner" />
       </list>
     </recent_temporary>
@@ -106,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677702529404</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1677703061330</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677703061330</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
